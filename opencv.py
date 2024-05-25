@@ -1,3 +1,4 @@
+
 import cv2
 image = cv2.imread("testfile.jpg")
 wide = 25
